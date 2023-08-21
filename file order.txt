@@ -1,0 +1,69 @@
+Flavo Scent website/
+|-- index.php
+|-- product-page.php
+|-- about.php
+|-- contact.php
+|-- product-list-page.php
+|-- team.php
+
+|-- includes/
+|   |-- DB-folder/
+|   |   |-- db.php
+|   |-- email/
+|       |-- Email-sending-file.php
+|       |-- Google-smtp.php
+|       |-- email-theme.php
+
+|-- website-theme-folder/
+|   |-- Header.php
+|   |-- footer.php
+|   |-- css/
+|   |   |-- Admin-page-styles.css
+|   |   |-- styles.css
+|   |-- js-folder/
+|       |-- script.js
+|   |-- images/
+|       |-- User-image-folder/
+|       |-- Feedback-Selfie-image-folder/
+|       |-- Product-image-folder/
+|       |-- website-images/
+
+|-- admin/
+|   |-- add_store_list.php
+|   |-- edit_store.php
+|   |-- admin_dashboard.php
+|   |-- admin_login.php
+|   |-- index.php
+|   |-- download_csv.php
+|   |-- add_mark_on_feedback.php
+|   |-- add_3slider_home.php
+|   |-- store-page/
+|       |-- Shop-1-folder/
+|       |-- Shop-2-folder/
+|       |   |-- add-price.php
+|       |   |-- prize-folder/
+|       |-- ...
+
+|-- user/
+|   |-- submit_feedback.php
+|   |-- user_dashboard.php
+|   |-- view_feedback.php
+|   |-- profile.php
+|   |-- edit-profile.php
+|   |-- index.php
+|   |-- login.php
+|   |-- register.php
+|   |-- logout.php
+
+|-- css/
+|   |-- Admin-page-styles.css
+|   |-- styles.css
+
+|-- js-folder/
+|   |-- script.js
+
+|-- images/
+|   |-- User-image-folder/
+|   |-- Feedback-Selfie-image-folder/
+|   |-- Product-image-folder/
+|   |-- website-images/

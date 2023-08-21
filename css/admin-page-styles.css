@@ -1,0 +1,10 @@
+/* Assuming you'd want the admin pages to have a different background color */
+body {
+    background-color: #e6e6e6;
+}
+
+.admin-panel {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
